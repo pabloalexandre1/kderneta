@@ -1,0 +1,8 @@
+#root {
+    background-color: #212121;
+}
+
+.navbar-home {
+    min-height: 50px;
+    background-color: red;
+}
